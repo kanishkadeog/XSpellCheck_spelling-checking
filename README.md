@@ -79,8 +79,11 @@ With Mistake:-
 ## 📂 Folder Structure
 ├── src/
      ├── App.js
-     ├── SpellCheckApp.js
-     └── index.js
+     ├── index.js
+     └──components/
+           └── SpellCheckApp.js
+
+   
 
 
 
